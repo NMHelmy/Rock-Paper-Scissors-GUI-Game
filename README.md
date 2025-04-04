@@ -8,7 +8,7 @@
 - [Future Improvements](#-future-improvements)
 
 ## 🎥 Game Demo
-[![Ping Pong Demo](https://img.shields.io/badge/▶-Watch%20Demo-blue)](https://github.com/user-attachments/assets/d3d516a7-d8aa-4378-a5bb-12e44caa97e1)
+[![ Demo](https://img.shields.io/badge/▶-Watch%20Demo-blue)](https://github.com/user-attachments/assets/d3d516a7-d8aa-4378-a5bb-12e44caa97e1)
 <br>*(Click the badge above to view the gameplay video)* 
 
 ---
